@@ -27,7 +27,7 @@
     "admin-js-users-permissions-migrations": "./src/bin/migrations.js"
   },
   "dependencies": {
-    "@adminjs/passwords": "^1.0.3",
+    "@adminjs/passwords": "^2.0.0",
     "argon2": "^0.27.0",
     "lodash": "^4.17.20",
     "mongoose": "^5.10.5",
